@@ -52,8 +52,6 @@ export default {
 </template>
 
 <style scoped>
-
-
 .menu {
     display: flex;
     position: absolute;
@@ -65,8 +63,6 @@ export default {
     margin: 0;
     height: 97vh;
     font-family: "Helvetica Neue", Arial, sans-serif;
-    /*color: #333;*/
-
 }
 
 textarea,
