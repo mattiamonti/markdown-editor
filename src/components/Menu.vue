@@ -41,7 +41,7 @@ export default {
             <button @click="clear()">Clear</button>
         </div>
     </div>
-    <div class="background-blur hide" id="background-blur"></div>
+    <div class="background-blur hide" id="background-blur" @click="showMenu()"></div>
 </template>
 
 <style scoped>
